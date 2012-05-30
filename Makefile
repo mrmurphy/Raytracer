@@ -1,4 +1,3 @@
-
 run:
-	pypy Raytracer.py
+	/usr/local/bin/pypy Raytracer.py
 	qlmanage -p out.png
